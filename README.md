@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loknoe-dev
 - 👀 I’m interested in programming and networks
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on Python or Java projects
 - 📫 How to reach me info@loknoe.dev
 
 <!---
