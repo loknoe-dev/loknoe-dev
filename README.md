@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loknoe-dev
 - 👀 I’m interested in programming and networks
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python or Java projects
 - 📫 How to reach me info@loknoe.dev
 
